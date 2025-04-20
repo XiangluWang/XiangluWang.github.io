@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about adversarial training and continual learning.'
 date: 2025-01-23
-venue: "The Thirteenth International Conference on Learning Representations (ICLR'25)"
+venue: "The Thirteenth International Conference on Learning Representations (ICLR)"
 paperurl: 'https://openreview.net/pdf?id=fjPOt8QlqQ'
 citation: 'Wang, Xianglu, and Hu Ding. "Exploring The Forgetting in Adversarial Training: A Novel Method for Enhancing Robustness." The Thirteenth International Conference on Learning Representations.'
 ---
