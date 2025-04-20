@@ -24,7 +24,7 @@ Work experience
 Skills
 ======
 * Coding
-  * Python, C, Matlab, Java, R, sql, LATEX.
+  * Python, C, Matlab, Java, R, sql.
 * Databases
   * Mysql, Redis, MongoDB.
 
