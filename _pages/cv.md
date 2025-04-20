@@ -11,35 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D  Electronic Information, [School of Artificial Intelligence and Data Science](https://saids.ustc.edu.cn/main.htm), University of Science and Technology of China ([USTC](https://www.ustc.edu.cn/)), 2023-present
+* M.S.  Statistics Major, [School of Management](https://som.ustc.edu.cn/main.htm), University of Science and Technology of China ([USTC](https://www.ustc.edu.cn/)), 2019-2022
+* B.S. Finance, [School of Management](https://som.ustc.edu.cn/main.htm), University of Science and Technology of China ([USTC](https://www.ustc.edu.cn/)), 2015-2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022 – 2023: Senior AI Algorithm Engineer
+  * Honor Device Co., Ltd., commonly known as [HONOR](https://www.honor.com/cn/).
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding
+  * Python, C, Matlab, Java, R, sql, LATEX.
+* Databases
+  * Mysql, Redis, MongoDB.
 
 Publications
 ======
@@ -47,13 +34,20 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Miscellaneous Experience
+======
+* 2019: Master’s First Prize Scholarship, USTC.
+* 2024: PhD First Prize Scholarship, USTC.
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Conferences and Journals reviewer
+  * International Conference on Learning Representations (ICLR’25)
+  * The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR’25)
