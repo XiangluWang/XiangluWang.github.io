@@ -1,5 +1,5 @@
 ---
-title: "Exploring The Forgetting in Adversarial Training: A Novel Method for Enhancing Robustness"
+title: 'Exploring The Forgetting in Adversarial Training: A Novel Method for Enhancing Robustness'
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
