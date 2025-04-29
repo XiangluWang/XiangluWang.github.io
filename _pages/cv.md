@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D  Electronic Information, [School of Artificial Intelligence and Data Science](https://saids.ustc.edu.cn/main.htm), University of Science and Technology of China ([USTC](https://www.ustc.edu.cn/)), 2023-present
-* M.S.  Statistics Major, [School of Management](https://som.ustc.edu.cn/main.htm), University of Science and Technology of China ([USTC](https://www.ustc.edu.cn/)), 2019-2022
+* M.S.  Statistics, [School of Management](https://som.ustc.edu.cn/main.htm), University of Science and Technology of China ([USTC](https://www.ustc.edu.cn/)), 2019-2022
 * B.S. Finance, [School of Management](https://som.ustc.edu.cn/main.htm), University of Science and Technology of China ([USTC](https://www.ustc.edu.cn/)), 2015-2019
 
 Work experience
@@ -43,7 +43,7 @@ Teaching
 
 Miscellaneous Experience
 ======
-* 2019: Master’s First Prize Scholarship, USTC.
+* 2019: Master First Prize Scholarship, USTC.
 * 2024: PhD First Prize Scholarship, USTC.
   
 Service and leadership
